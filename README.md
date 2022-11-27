@@ -11,6 +11,7 @@ Here are some ideas to get you started:
                         mysql mybatis-plus
                         elasticsearch 
                         redis mybatis
+                        quartz springsecurity
                         vue uniapp 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
